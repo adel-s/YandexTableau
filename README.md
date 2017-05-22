@@ -1,0 +1,2 @@
+# YandexTableau
+MediaWiki Plugin
